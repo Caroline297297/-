@@ -1,0 +1,16 @@
+
+  .score{
+      position:absolute;
+      left:20%;
+  }
+ ul{
+      width:100%;
+      font-size:22px;
+      overflow: hidden;
+  }
+  li{
+     height:40px;
+     line-height:40px;
+     list-style-type:none;
+     float:left;
+  }
